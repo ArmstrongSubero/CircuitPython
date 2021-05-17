@@ -1,0 +1,7 @@
+TRANSLATE("function is implemented for scalars and ndarrays only")
+TRANSLATE("operands could not be broadcast together")
+Q(__name__)
+Q(compare)
+Q(maximum)
+Q(minimum)
+Q(clip)

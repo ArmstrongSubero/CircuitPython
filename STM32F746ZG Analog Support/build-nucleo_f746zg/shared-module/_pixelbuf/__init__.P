@@ -1,0 +1,3 @@
+build-nucleo_f746zg/shared-module/_pixelbuf/__init__.o: \
+ ../../shared-module/_pixelbuf/__init__.c
+ ../../shared-module/_pixelbuf/__init__.c :

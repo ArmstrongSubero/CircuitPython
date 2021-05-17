@@ -1,0 +1,8 @@
+TRANSLATE("Must provide MISO or MOSI pin")
+TRANSLATE("Hardware busy, try alternative pins")
+TRANSLATE("Invalid SPI pin selection")
+TRANSLATE("SPI Init Error")
+TRANSLATE("SPI Re-initialization error")
+TRANSLATE("No MOSI Pin")
+TRANSLATE("No MISO Pin")
+TRANSLATE("Missing MISO or MOSI Pin")

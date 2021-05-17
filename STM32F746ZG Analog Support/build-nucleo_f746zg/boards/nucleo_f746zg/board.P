@@ -1,0 +1,5 @@
+build-nucleo_f746zg/boards/nucleo_f746zg/board.o: \
+ boards/nucleo_f746zg/board.c boards/board.h \
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include/stdbool.h
+ boards/nucleo_f746zg/board.c boards/board.h :
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include/stdbool.h :

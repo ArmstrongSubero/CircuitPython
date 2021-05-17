@@ -1,0 +1,3 @@
+build-nucleo_f746zg/peripherals/stm32f7/stm32f746xx/adc.o: \
+ peripherals/stm32f7/stm32f746xx/adc.c
+ peripherals/stm32f7/stm32f746xx/adc.c :

@@ -1,0 +1,3 @@
+build-nucleo_f746zg/common-hal/analogio/__init__.o: \
+ common-hal/analogio/__init__.c
+ common-hal/analogio/__init__.c :

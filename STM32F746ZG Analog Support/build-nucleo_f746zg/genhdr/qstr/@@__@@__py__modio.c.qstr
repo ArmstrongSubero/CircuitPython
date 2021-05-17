@@ -1,0 +1,8 @@
+Q(protocol_stream)
+Q(__name__)
+Q(uio)
+Q(open)
+Q(FileIO)
+Q(TextIOWrapper)
+Q(StringIO)
+Q(BytesIO)

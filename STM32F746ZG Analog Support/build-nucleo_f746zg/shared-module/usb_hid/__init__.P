@@ -1,0 +1,3 @@
+build-nucleo_f746zg/shared-module/usb_hid/__init__.o: \
+ ../../shared-module/usb_hid/__init__.c
+ ../../shared-module/usb_hid/__init__.c :

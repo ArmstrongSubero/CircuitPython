@@ -1,0 +1,3 @@
+build-nucleo_f746zg/shared-module/touchio/__init__.o: \
+ ../../shared-module/touchio/__init__.c
+ ../../shared-module/touchio/__init__.c :

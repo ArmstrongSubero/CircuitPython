@@ -1,0 +1,3 @@
+TRANSLATE("Hardware busy, try alternative pins")
+TRANSLATE("Invalid I2C pin selection")
+TRANSLATE("I2C Init Error")

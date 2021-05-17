@@ -1,0 +1,8 @@
+TRANSLATE("FFT is defined for ndarrays only")
+TRANSLATE("FFT is defined for ndarrays only")
+TRANSLATE("input array length must be power of 2")
+TRANSLATE("real and imaginary parts must be of equal length")
+Q(__name__)
+Q(fft)
+Q(fft)
+Q(ifft)

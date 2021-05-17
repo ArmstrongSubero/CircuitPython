@@ -1,0 +1,3 @@
+TRANSLATE("Invalid DAC pin supplied")
+TRANSLATE("DAC Device Init Error")
+TRANSLATE("DAC Channel Init Error")

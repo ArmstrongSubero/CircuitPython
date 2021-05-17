@@ -1,0 +1,4 @@
+TRANSLATE("argument num/types mismatch")
+Q(get_pressed)
+Q(deinit)
+Q(GamePad)

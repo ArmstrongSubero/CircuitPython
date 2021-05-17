@@ -1,0 +1,3 @@
+build-nucleo_f746zg/common-hal/board/__init__.o: \
+ common-hal/board/__init__.c
+ common-hal/board/__init__.c :

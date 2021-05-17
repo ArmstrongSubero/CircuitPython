@@ -1,0 +1,112 @@
+build-nucleo_f746zg/py/qstr.o: ../../py/qstr.c \
+ /opt/gcc-arm/arm-none-eabi/include/assert.h \
+ /opt/gcc-arm/arm-none-eabi/include/_ansi.h \
+ /opt/gcc-arm/arm-none-eabi/include/newlib.h \
+ /opt/gcc-arm/arm-none-eabi/include/_newlib_version.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/config.h \
+ /opt/gcc-arm/arm-none-eabi/include/machine/ieeefp.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/features.h \
+ /opt/gcc-arm/arm-none-eabi/include/string.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/reent.h \
+ /opt/gcc-arm/arm-none-eabi/include/_ansi.h \
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/_types.h \
+ /opt/gcc-arm/arm-none-eabi/include/machine/_types.h \
+ /opt/gcc-arm/arm-none-eabi/include/machine/_default_types.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/lock.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/cdefs.h \
+ /opt/gcc-arm/arm-none-eabi/include/xlocale.h \
+ /opt/gcc-arm/arm-none-eabi/include/strings.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/string.h \
+ /opt/gcc-arm/arm-none-eabi/include/stdio.h \
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include/stdarg.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/types.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/_stdint.h \
+ /opt/gcc-arm/arm-none-eabi/include/machine/endian.h \
+ /opt/gcc-arm/arm-none-eabi/include/machine/_endian.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/select.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/_sigset.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/_timeval.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/timespec.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/_timespec.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/_pthreadtypes.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/sched.h \
+ /opt/gcc-arm/arm-none-eabi/include/machine/types.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/stdio.h ../../py/gc.h \
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h \
+ /opt/gcc-arm/arm-none-eabi/include/stdint.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/_intsup.h ../../py/mpconfig.h \
+ mpconfigport.h ../../py/circuitpy_mpconfig.h \
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include/stdatomic.h \
+ boards/nucleo_f746zg/mpconfigboard.h \
+ /opt/gcc-arm/arm-none-eabi/include/alloca.h \
+ ../../supervisor/flash_root_pointers.h \
+ supervisor/internal_flash_root_pointers.h ../../py/mpstate.h \
+ ../../py/mpthread.h ../../py/misc.h \
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include/stdbool.h \
+ ../../py/mpconfig.h ../../py/nlr.h \
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include-fixed/limits.h \
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include-fixed/syslimits.h \
+ /opt/gcc-arm/arm-none-eabi/include/limits.h \
+ /opt/gcc-arm/arm-none-eabi/include/sys/syslimits.h ../../py/obj.h \
+ ../../py/qstr.h build-nucleo_f746zg/genhdr/qstrdefs.enum.h \
+ ../../py/mpprint.h ../../py/runtime0.h \
+ ../../supervisor/shared/translate.h ../../py/objlist.h \
+ ../../py/objexcept.h ../../py/objtuple.h ../../supervisor/linker.h \
+ build-nucleo_f746zg/genhdr/qstrdefs.generated.h
+../../py/qstr.c :
+ /opt/gcc-arm/arm-none-eabi/include/assert.h :
+ /opt/gcc-arm/arm-none-eabi/include/_ansi.h :
+ /opt/gcc-arm/arm-none-eabi/include/newlib.h :
+ /opt/gcc-arm/arm-none-eabi/include/_newlib_version.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/config.h :
+ /opt/gcc-arm/arm-none-eabi/include/machine/ieeefp.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/features.h :
+ /opt/gcc-arm/arm-none-eabi/include/string.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/reent.h :
+ /opt/gcc-arm/arm-none-eabi/include/_ansi.h :
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include/stddef.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/_types.h :
+ /opt/gcc-arm/arm-none-eabi/include/machine/_types.h :
+ /opt/gcc-arm/arm-none-eabi/include/machine/_default_types.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/lock.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/cdefs.h :
+ /opt/gcc-arm/arm-none-eabi/include/xlocale.h :
+ /opt/gcc-arm/arm-none-eabi/include/strings.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/string.h :
+ /opt/gcc-arm/arm-none-eabi/include/stdio.h :
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include/stdarg.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/types.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/_stdint.h :
+ /opt/gcc-arm/arm-none-eabi/include/machine/endian.h :
+ /opt/gcc-arm/arm-none-eabi/include/machine/_endian.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/select.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/_sigset.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/_timeval.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/timespec.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/_timespec.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/_pthreadtypes.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/sched.h :
+ /opt/gcc-arm/arm-none-eabi/include/machine/types.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/stdio.h ../../py/gc.h :
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h :
+ /opt/gcc-arm/arm-none-eabi/include/stdint.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/_intsup.h ../../py/mpconfig.h :
+ mpconfigport.h ../../py/circuitpy_mpconfig.h :
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include/stdatomic.h :
+ boards/nucleo_f746zg/mpconfigboard.h :
+ /opt/gcc-arm/arm-none-eabi/include/alloca.h :
+ ../../supervisor/flash_root_pointers.h :
+ supervisor/internal_flash_root_pointers.h ../../py/mpstate.h :
+ ../../py/mpthread.h ../../py/misc.h :
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include/stdbool.h :
+ ../../py/mpconfig.h ../../py/nlr.h :
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include-fixed/limits.h :
+ /opt/gcc-arm/lib/gcc/arm-none-eabi/9.2.1/include-fixed/syslimits.h :
+ /opt/gcc-arm/arm-none-eabi/include/limits.h :
+ /opt/gcc-arm/arm-none-eabi/include/sys/syslimits.h ../../py/obj.h :
+ ../../py/qstr.h build-nucleo_f746zg/genhdr/qstrdefs.enum.h :
+ ../../py/mpprint.h ../../py/runtime0.h :
+ ../../supervisor/shared/translate.h ../../py/objlist.h :
+ ../../py/objexcept.h ../../py/objtuple.h ../../supervisor/linker.h :
+ build-nucleo_f746zg/genhdr/qstrdefs.generated.h :

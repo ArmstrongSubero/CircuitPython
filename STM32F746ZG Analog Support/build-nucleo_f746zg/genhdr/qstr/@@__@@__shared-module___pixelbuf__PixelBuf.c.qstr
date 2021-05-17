@@ -1,0 +1,2 @@
+TRANSLATE("Expected tuple of length %d, got %d")
+Q(_transmit)
